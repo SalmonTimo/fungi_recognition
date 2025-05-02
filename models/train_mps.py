@@ -1,8 +1,8 @@
 #!/usr/bin/env python3
 # train_convnextv2_xl.py
 """
-Fine-tune ConvNeXt V2-XL on a Zarr image classification dataset.
-Author: you  •  2025-05-01
+Train image recognition models given a zarr dataset.
+Author: Tim Salmon  •  2025-05-01
 """
 import argparse, math, os, time, json, random
 from pathlib import Path
