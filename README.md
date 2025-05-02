@@ -2,7 +2,7 @@
 
 This repository contains code to train a deep learning model for image recognition of fungi species. The goal of this project is to explore computer vision methods for fungal identification using publicly available biodiversity data.
 
-## 🧠 Project Purpose
+## Project Purpose
 
 The trained image recognition model is intended **solely for research purposes**. It must **not be used for identifying fungi for harvesting, consumption, or other practical applications**. Many fungi are toxic or dangerous, and misidentification can result in serious health risks.
 
